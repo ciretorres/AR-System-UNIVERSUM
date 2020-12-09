@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Turtle" size="0.070000 0.118758" />
+    <ImageTarget name="Elephant" size="0.070000 0.118758" />
+    <ImageTarget name="Whale" size="0.070000 0.118758" />
+    <ImageTarget name="three" size="0.070000 0.113768" />
+    <ImageTarget name="one" size="0.070000 0.115193" />
+    <ImageTarget name="two" size="0.070000 0.110774" />
+    <ImageTarget name="orange" size="0.070000 0.120041" />
+    <ImageTarget name="purple" size="0.070000 0.120041" />
+    <ImageTarget name="green" size="0.070000 0.120041" />
+    <ImageTarget name="blue" size="0.070000 0.120041" />
+    <ImageTarget name="red" size="0.070000 0.120041" />
+  </Tracking>
+</QCARConfig>

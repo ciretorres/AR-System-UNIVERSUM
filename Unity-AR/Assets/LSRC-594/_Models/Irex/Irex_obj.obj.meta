@@ -1,0 +1,337 @@
+fileFormatVersion: 2
+guid: 5bc0deb79c96a4c6cb5417911d3856fa
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TongueMat
+    second: {fileID: 2100000, guid: de5f80d00c9844f7dac802cf78041a24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body_mMat
+    second: {fileID: 2100000, guid: 2cea2d36d4fa547d28ec04eeb40458be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eyeMembrane_leftMat
+    second: {fileID: 2100000, guid: bf0162adf3aa3490e89088ad68dca1e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eyeMembrane_rightMat
+    second: {fileID: 2100000, guid: bf0162adf3aa3490e89088ad68dca1e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eyes1Mat
+    second: {fileID: 2100000, guid: bf0162adf3aa3490e89088ad68dca1e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eyesMat
+    second: {fileID: 2100000, guid: bf0162adf3aa3490e89088ad68dca1e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: iris_black1Mat
+    second: {fileID: 2100000, guid: 676c38ff83708495aa4819c57484c550, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: iris_blackMat
+    second: {fileID: 2100000, guid: 676c38ff83708495aa4819c57484c550, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spine100Mat
+    second: {fileID: 2100000, guid: 7465c86c33e8d4f04ad16b91df015005, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spine101Mat
+    second: {fileID: 2100000, guid: 7465c86c33e8d4f04ad16b91df015005, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spine102Mat
+    second: {fileID: 2100000, guid: 7465c86c33e8d4f04ad16b91df015005, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spine103Mat
+    second: {fileID: 2100000, guid: 7465c86c33e8d4f04ad16b91df015005, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spine104Mat
+    second: {fileID: 2100000, guid: 7465c86c33e8d4f04ad16b91df015005, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spine105Mat
+    second: {fileID: 2100000, guid: 7465c86c33e8d4f04ad16b91df015005, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spine106Mat
+    second: {fileID: 2100000, guid: 7465c86c33e8d4f04ad16b91df015005, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spine107Mat
+    second: {fileID: 2100000, guid: 7465c86c33e8d4f04ad16b91df015005, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spine108Mat
+    second: {fileID: 2100000, guid: 7465c86c33e8d4f04ad16b91df015005, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spine109Mat
+    second: {fileID: 2100000, guid: 7465c86c33e8d4f04ad16b91df015005, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spine10Mat
+    second: {fileID: 2100000, guid: 7465c86c33e8d4f04ad16b91df015005, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spine110Mat
+    second: {fileID: 2100000, guid: 7465c86c33e8d4f04ad16b91df015005, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spine111Mat
+    second: {fileID: 2100000, guid: 7465c86c33e8d4f04ad16b91df015005, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spine112Mat
+    second: {fileID: 2100000, guid: 7465c86c33e8d4f04ad16b91df015005, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spine113Mat
+    second: {fileID: 2100000, guid: 7465c86c33e8d4f04ad16b91df015005, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spine114Mat
+    second: {fileID: 2100000, guid: 7465c86c33e8d4f04ad16b91df015005, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spine115Mat
+    second: {fileID: 2100000, guid: 7465c86c33e8d4f04ad16b91df015005, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spine116Mat
+    second: {fileID: 2100000, guid: 7465c86c33e8d4f04ad16b91df015005, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spine117Mat
+    second: {fileID: 2100000, guid: 7465c86c33e8d4f04ad16b91df015005, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spine118Mat
+    second: {fileID: 2100000, guid: 7465c86c33e8d4f04ad16b91df015005, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spine119Mat
+    second: {fileID: 2100000, guid: 7465c86c33e8d4f04ad16b91df015005, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spine11Mat
+    second: {fileID: 2100000, guid: 7465c86c33e8d4f04ad16b91df015005, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spine120Mat
+    second: {fileID: 2100000, guid: 7465c86c33e8d4f04ad16b91df015005, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spine121Mat
+    second: {fileID: 2100000, guid: 7465c86c33e8d4f04ad16b91df015005, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spine122Mat
+    second: {fileID: 2100000, guid: 7465c86c33e8d4f04ad16b91df015005, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spine123Mat
+    second: {fileID: 2100000, guid: 7465c86c33e8d4f04ad16b91df015005, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spine124Mat
+    second: {fileID: 2100000, guid: 7465c86c33e8d4f04ad16b91df015005, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spine125Mat
+    second: {fileID: 2100000, guid: 7465c86c33e8d4f04ad16b91df015005, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spine126Mat
+    second: {fileID: 2100000, guid: 7465c86c33e8d4f04ad16b91df015005, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spine127Mat
+    second: {fileID: 2100000, guid: 7465c86c33e8d4f04ad16b91df015005, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spine128Mat
+    second: {fileID: 2100000, guid: 7465c86c33e8d4f04ad16b91df015005, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spine129Mat
+    second: {fileID: 2100000, guid: 7465c86c33e8d4f04ad16b91df015005, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spine12Mat
+    second: {fileID: 2100000, guid: 7465c86c33e8d4f04ad16b91df015005, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spine130Mat
+    second: {fileID: 2100000, guid: 7465c86c33e8d4f04ad16b91df015005, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spine131Mat
+    second: {fileID: 2100000, guid: 7465c86c33e8d4f04ad16b91df015005, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spine132Mat
+    second: {fileID: 2100000, guid: 7465c86c33e8d4f04ad16b91df015005, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spine133Mat
+    second: {fileID: 2100000, guid: 7465c86c33e8d4f04ad16b91df015005, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spine134Mat
+    second: {fileID: 2100000, guid: 7465c86c33e8d4f04ad16b91df015005, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: teeth_lowerMat
+    second: {fileID: 2100000, guid: 65b6e2e21c3dc4e0d9018cd0ba701d36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: teeth_upperMat
+    second: {fileID: 2100000, guid: 65b6e2e21c3dc4e0d9018cd0ba701d36, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
