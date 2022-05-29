@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="2160px-Crab_Nebula_2" size="0.070000 0.120024" />
+    <ImageTarget name="eso9948f" size="0.070000 0.070383" />
+    <ImageTarget name="2160px-Crab_Nebula" size="0.070000 0.070000" />
+    <ImageTarget name="andromeda" size="0.070000 0.045080" />
+    <ImageTarget name="milky" size="0.070000 0.119950" />
+    <ImageTarget name="milky2" size="0.070000 0.040858" />
+    <ImageTarget name="milky-way-2" size="0.070000 0.052500" />
+    <ImageTarget name="milky-way-3" size="0.070000 0.046648" />
+    <ImageTarget name="milky-way-1" size="0.070000 0.045267" />
+  </Tracking>
+</QCARConfig>
